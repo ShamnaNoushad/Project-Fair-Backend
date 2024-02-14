@@ -1,0 +1,8 @@
+                           
+                           
+                           
+                            Backend for Project Fair
+
+        1) Create a Backend folder - project-fair-Backend
+        2) Create a package.json file - npm init -y
+        3) Install 3rd Party Packages
